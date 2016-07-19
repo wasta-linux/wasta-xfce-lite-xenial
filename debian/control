@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.5
 Homepage: https://github.com/wasta-linux/wasta-xfce-lite-xenial
 
-Package: wasta-xfce-setup-lite
+Package: wasta-xfce-lite-xenial
 Architecture: all
 Depends: wasta-xfce-common-xenial, ${shlibs:Depends}, ${misc:Depends}
 Conflicts: wasta-xfce-xenial
